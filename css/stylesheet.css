@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(42, 165, 108);
+}
+
+hr{
+    border-top-style:none; 
+    border-top-style:dotted;
+    border-color: rgb(255, 0, 76);
+    height: 4px;
+    border-width: 5px;
+    width: 10%;
+
+}
+h2 {
+    color: #41aea9;
+    font-size: 18px;
+}
+/*Class Selectors*/
+.heading{
+
+    font-size: 44px;
+}
+
+a:hover{
+    color: chartreuse;
+
+}
+
+/* ID Selectors*/
+#name {
+    color: blueviolet;
+
+}
