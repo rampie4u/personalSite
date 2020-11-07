@@ -1,0 +1,43 @@
+body{
+    background-color: rgb(9, 48, 58);
+}
+
+h1 {
+    color: #41aea9;
+    font-size: 50px;
+    text-align: center;
+}
+
+h2 {
+    color: #41aea9;
+    font-size: 25px;
+    text-align: center;
+}
+/*Class Selectors*/
+.heading{
+
+    font-size: 80px;
+}
+
+a:hover{
+    color: rgb(226, 64, 43);
+
+}
+
+/* ID Selectors*/
+#name {
+    color: rgb(226, 64, 43);
+
+}
+
+#para {
+    color: rgb(226, 64, 43);
+
+}
+
+#contact {
+        color: rgb(226, 64, 43);    
+
+}
+
+
